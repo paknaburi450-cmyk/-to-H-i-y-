@@ -39,7 +39,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "লাভ": "https://files.catbox.moe/w48i3n.mp4",
     "লাভ২": "https://files.catbox.moe/0hqphz.mp4",
     "Love12": "https://files.catbox.moe/1f6wdu.mp4",
-    " বউ রাব্বি": "https://files.catbox.moe/pqdh0d.mp4"
+    "বউ রাব্বি": "https://files.catbox.moe/pqdh0d.mp4"
   };
 
   for (const key in videoMap) {
