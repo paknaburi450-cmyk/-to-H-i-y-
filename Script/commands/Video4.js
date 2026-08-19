@@ -20,10 +20,10 @@ module.exports.handleEvent = async function ({ api, event }) {
 
   const videoMap = {
     "খাদিজা": "https://files.catbox.moe/j03fk3.mp4",
-    "খাদিজা২": "https://files.catbox.moe/5jt9vu.mp4",
+    "🤭খাদিজা": "https://files.catbox.moe/5jt9vu.mp4",
 
     // এখানে নিজের ২টি .mp4 লিংক বসাও
-    "খাদিজা3": "https://files.catbox.moe/941j0f.mp4",
+    "🫣খাদিজা": "https://files.catbox.moe/941j0f.mp4",
     "কষ্ট৪": "https://files.catbox.moe/57hycf.mp4"
   };
 
